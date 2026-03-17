@@ -115,5 +115,5 @@ My contributions included:
 
 ## Images
 
-![Prototype](Prototype.jpg)
+![Prototype](Prototype.png)
 ![System Diagram](System_Diagram.png)
