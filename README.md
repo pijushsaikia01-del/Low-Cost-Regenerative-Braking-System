@@ -117,3 +117,8 @@ My contributions included:
 
 ![Prototype](Prototype.png)
 ![System Diagram](System_Diagram.png)
+
+---
+
+## Detailed Report
+[View Full Report](regenerative-braking-system-report.pdf)
